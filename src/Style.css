@@ -1,0 +1,57 @@
+.TopBar_Parent{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    background-color: #647af5;
+    height: 80px;
+    gap:300px
+
+}
+.Logo{
+    display: flex;
+    
+    
+}
+.Logo,img{
+    align-items: center;
+    left: 0px;
+    height: 80px;
+    width: 180px;
+    display: flex;
+    top:0px;
+}
+.Menu_Parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap:130px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.MidSection_parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top:20px;
+
+}
+.midSection_image{
+    margin-left: -20%;
+ 
+}
+.midSection_Login{
+    margin-right: -18%;
+
+    width: 500px;
+    height: 500px;
+    
+}
+#midImg{
+    width: 500px;
+    height: 500px;
+    
+}
